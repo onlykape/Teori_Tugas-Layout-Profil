@@ -15,10 +15,6 @@
 <a href="https://github.com/onlykape/Teori_Tugas-Layout-Profil"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fonlykape%2FBot&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 </p>
-
-<p align="center">
-  <a href="https://github.com/onlykape/Teori_Tugas-Layout-Profil#information">Info</a> •
-</p>
 </div>
 
 ---
