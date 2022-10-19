@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/onlykape/Teori_Tugas-Layout-Profil/Logo.png" alt="Logo Android Studio" width="100"/>
+<img src="https://github.com/onlykape/Teori_Tugas-Layout-Profil/blob/main/Ss/logo.png?raw=true" alt="Logo Android Studio" width="100"/>
 </p>
 
 <p align="center">
@@ -34,10 +34,10 @@
 ## Preview
 <details>
 <summary> <b>Halaman Awal</b></summary><br/>
-<img src="https://github.com/onlykape/Teori_Tugas-Layout-Profil/Activity1.png" />
+<img src="https://github.com/onlykape/Teori_Tugas-Layout-Profil/blob/main/Ss/Activity1.png?raw=true" />
 </details>
 
 <details>
 <summary> <b>Halaman Setelah Button Di Klik</b></summary><br/>
-<img src="https://github.com/onlykape/Teori_Tugas-Layout-Profil/Activity2.png" />
+<img src="https://github.com/onlykape/Teori_Tugas-Layout-Profil/blob/main/Ss/Activity2.png?raw=true" />
 </details>
